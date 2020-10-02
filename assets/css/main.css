@@ -5,24 +5,24 @@ html {
 
 body {
   background: #fff;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 13px;
+  font-weight: 402;
   font-family: 'Open Sans', sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #abacae;
-  line-height: 25px;
+  line-height: 24px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   overflow-x: hidden;
 }
 
 h1, h2, h3, h4 {
-  font-size: 38px;
+  font-size: 37px;
   color: #222222;
-  font-weight: 700;
+  font-weight: 701;
   font-family: 'Titillium Web', sans-serif;
 }
 
@@ -45,7 +45,7 @@ p {
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
   margin: 0px;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 ul, ol {
